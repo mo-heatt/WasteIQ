@@ -1,0 +1,23 @@
+{
+  "timestamp": "demo",
+  "source": "Demo Challenge 1 Data",
+  "total_fill_percent": 64,
+  "regions": [
+    {
+      "region_id": "LEFT",
+      "fill_percent": 72,
+      "available_mass_tonnes": 45
+    },
+    {
+      "region_id": "CENTER",
+      "fill_percent": 58,
+      "available_mass_tonnes": 60
+    },
+    {
+      "region_id": "RIGHT",
+      "fill_percent": 40,
+      "available_mass_tonnes": 32
+    }
+  ],
+  "is_demo": true
+}

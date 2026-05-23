@@ -1,0 +1,2 @@
+"""WasteIQ backend package."""
+
